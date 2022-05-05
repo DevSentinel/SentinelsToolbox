@@ -1,1 +1,0 @@
-Get-AppxPackage *people* | Remove-AppxPackage

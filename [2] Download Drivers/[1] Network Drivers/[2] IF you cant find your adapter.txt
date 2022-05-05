@@ -1,5 +1,0 @@
-If your adapter isn't any of those then search on google for your adapter name till you find the drivers.
-
-If you still cant find the drivers - Download CPU-Z from this link (http://www.filedropper.com/cpu-z)
-Open it, and go to Mainboard tab and beside "Model" you are going to see your motherboard name
-Search that up on google and type "Drivers" bneside it and then click the official link and download the drivers from there.

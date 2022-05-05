@@ -1,1 +1,0 @@
-Get-AppxPackage *windowscamera* | Remove-AppxPackage

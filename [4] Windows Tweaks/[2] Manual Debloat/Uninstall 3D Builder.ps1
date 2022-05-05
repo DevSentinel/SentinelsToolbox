@@ -1,1 +1,0 @@
-Get-AppxPackage *3dbuilder* | Remove-AppxPackage

@@ -1,1 +1,0 @@
-Get-AppxPackage *windowsalarms* | Remove-AppxPackage
