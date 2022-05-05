@@ -1,4 +1,4 @@
-Best RUFUS Settings.
+How to Use Rufus.
 
 Open up Run (Win+R) 
 Type in MSinfo32 > Check BIOS Mode
