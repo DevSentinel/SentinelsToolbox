@@ -1,0 +1,17 @@
+Best RUFUS Settings.
+
+Open up Run (Win+R) 
+Type in MSinfo32 > Check BIOS Mode
+
+If it says UEFI use these settings:
+Partition scheme GPT. 
+Target system UEFI (non CSM)
+File System: FAT32
+
+If it says legacy, use these settings: 
+Partition scheme: MBR. 
+Target system: BIOS (or UEFI- CSM)
+File System: NTFS
+
+If you set it to NTFS then you will need to Disable Secure Boot in Bios.
+How to Disable Secure Boot in Bios - http://maxedtech.com/how-to-enable-or-disable-secure-boot/
