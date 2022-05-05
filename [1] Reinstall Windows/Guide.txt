@@ -1,0 +1,2 @@
+Pick your Desired OS (Recommendation: Try Out GGOS or stick to Stock Windows)
+then burn the ISO & and reinstall, then use the toolbox.
