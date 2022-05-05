@@ -1,0 +1,1 @@
+Pick your Desired OS then burn it onto your USB with rufus and reinstall windows.
