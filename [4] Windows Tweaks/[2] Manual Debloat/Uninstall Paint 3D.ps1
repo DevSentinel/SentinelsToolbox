@@ -1,1 +1,0 @@
-Get-AppxPackage *Microsoft.MSPaint* | Remove-AppxPackage

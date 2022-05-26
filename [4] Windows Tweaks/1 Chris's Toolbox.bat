@@ -4,4 +4,4 @@
 title Windows 10 Toolbox
 color 0f
 echo Opening The Toolbox.
-powershell iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JJ8R4'))
+powershell iex(irm christitus.com/win)

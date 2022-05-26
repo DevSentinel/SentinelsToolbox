@@ -1,1 +1,0 @@
-Get-AppxPackage *zunevideo* | Remove-AppxPackage

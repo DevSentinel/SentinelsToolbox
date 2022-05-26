@@ -1,1 +1,0 @@
-Get-AppxPackage *photos* | Remove-AppxPackage

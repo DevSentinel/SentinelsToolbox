@@ -1,1 +1,0 @@
-get-appxpackage *feedback* | remove-appxpackage

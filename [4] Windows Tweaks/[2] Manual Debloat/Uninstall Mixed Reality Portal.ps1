@@ -1,1 +1,0 @@
-Get-AppxPackage *Microsoft.MixedReality.Portal* | Remove-AppxPackage

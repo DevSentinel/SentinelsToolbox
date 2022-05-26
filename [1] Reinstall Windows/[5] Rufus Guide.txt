@@ -1,9 +1,9 @@
-How to Use Rufus.
+Guide on How to Use Rufus:
 
-Open up Run (Win+R) 
-Type in MSinfo32 > Check BIOS Mode
+Open up Run (Press WIN + R)
+Type in MSinfo32 > Check Bios Mode
 
-If it says UEFI use these settings:
+If it says UEFI, use these settings:
 Partition scheme GPT. 
 Target system UEFI (non CSM)
 File System: FAT32
