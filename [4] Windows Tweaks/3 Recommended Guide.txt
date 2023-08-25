@@ -1,2 +1,0 @@
-I recommend using Chris's Toolbox
-A PowerShell toolbox (uses Winget), and some very sane recommended settings.

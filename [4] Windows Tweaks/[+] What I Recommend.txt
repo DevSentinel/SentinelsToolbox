@@ -1,0 +1,2 @@
+If you dont want to tweak your system that much, use Chris Titus's windows utility and run the recommended tweaks.
+Otherwise, use Amit's PC-Tuning guide but have caution as it tweaks your system heavily.

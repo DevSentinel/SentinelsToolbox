@@ -6,8 +6,8 @@
 
 # Requirements:
 1. [7zip](https://www.7-zip.org/) installed to extract the folder.
-2. OS: Windows 10 or 11.
-3. (Optional) USB if you want to re-install Windows.
+2. Operating System: Windows 10 or 11.
+3. USB Storage Device with minimum of 8GB.
 
 # Download:
 > Windows:

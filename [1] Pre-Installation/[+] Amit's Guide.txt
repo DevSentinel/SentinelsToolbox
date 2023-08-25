@@ -1,0 +1,4 @@
+Nowadays, I highly recommend picking whatever windows version you'd like (you can pick using the Pick a Version.txt which is the next step), and
+using Amit's PC-Tuning guide to tweak your system. His guide goes over everything needed/to know.
+
+Link : https://github.com/amitxv/PC-Tuning/tree/main

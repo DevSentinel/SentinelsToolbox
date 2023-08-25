@@ -1,0 +1,15 @@
+
+Pick a Windows Version
+
+GPU Series                  Minimum Windows Version
+NVIDIA 10 Series/Lower      - Supported by almost all Windows versions
+NVIDIA 16, 20 Series 	    - Win7, Win8, Win10 1709+
+NVIDIA 30 Series 	    - Win7, Win10 1803+
+NVIDIA 40 Series 	    - Win10 1803+
+AMD GPUs                    - Newer drivers require 1709
+
+- Earlier windows versions lack anti cheats because of the lack of security updates.
+- NVIDIA DCH Drivers are supported on Windows 10 1803+ (https://nvidia.custhelp.com/app/answers/detail/a_id/4777/~/nvidia-dch%2Fstandard-display-drivers-for-windows-10-faq)
+- Windows 10 1903+ has an updated scheduler for mutli CCX Ryzen CPUs (https://i.redd.it/y8nxtm08um331.png)
+- Windows 11 has an updated scheduler for Intel 12th Gen CPUs
+- You can also use custom ISOs, however I would not use one anymore.
